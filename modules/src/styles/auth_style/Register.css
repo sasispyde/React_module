@@ -1,0 +1,13 @@
+.form-horizontal .control-label {
+	text-align: left;
+}
+
+center{
+	margin-left:100px;
+}
+
+p{
+	color: red;
+	margin-top: 40px;
+	margin-left: 100px;
+}

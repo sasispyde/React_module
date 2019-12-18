@@ -1,0 +1,80 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+
+@media only screen and (min-width: 1440px) {
+  body {
+    text-align: center;
+  }
+  form{
+    width: 100%;
+  }
+  .cen{
+    margin-left: 25%;
+    margin-right:25%; 
+  }
+  .in-app input{
+    width: 800px;
+  }
+  .in-but {
+    margin-left: 111px;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  body{
+    text-align: center;
+  }
+  form{
+    width: 100%;
+  }
+  .cen{
+    margin-left: 25%;
+    margin-right:25%; 
+  }
+  .in-app input{
+    width: 650px;
+  }
+  .in-but {
+    margin-left: 170px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  body {
+    text-align: center;
+  }
+  form{
+    width: 100%;
+  }
+  .cen{
+    margin-left: 25%;
+    margin-right:25%; 
+  }
+  .in-app input{
+    width: 300px;
+  }
+  .in-but {
+    margin-left: 111px;
+  }
+}
